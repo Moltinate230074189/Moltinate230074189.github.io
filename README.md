@@ -42,17 +42,6 @@ Dedicated and enthusiastic ICT Application Development student seeking an IT Int
 -Improved communication and interpersona skills
 
 ---
-## 🚀 Projects
--**Study Group Finder App (Java)**
-UI/UX Designer in a group development project
-
--**Fitness App Design**
-Created user stories, diagrams, and interface designs
-
--**Digital Interface Redesign**
-Applied usability principles using Figma
-
----
 ## 📞 References
 **Ralebeko Maine**
 Mophate Secondary School
