@@ -51,3 +51,6 @@ Mophate Secondary School
 **Adam Mabaso**
 Peace Makers Church (Bothaville Branch)
 📞 073 521 8003
+
+## 🎥Mock Interview
+[Watch my mock interview video here](./Mock_Interview_Video.mp4)
