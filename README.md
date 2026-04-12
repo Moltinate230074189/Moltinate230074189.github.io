@@ -64,3 +64,46 @@ Peace Makers Church (Bothaville Branch)
 
 ## 🎥Mock Interview
 [Watch my mock interview video here](./Mock_Interview_Video.mp4)
+
+## 📝 Reflection on Coding in Markdown (STAR Method)
+**Situation:**
+I was required to design my CV using markdown on GitHub as part of my portfolio assignment.
+
+**Task:**
+My task was to learn Markdown syntax and present my CV in a clean, structured, and professional format.
+
+**Action:**
+I researched Markdown formatting and also used the instructions I got from the study guide, used headings, lists and links to structure my CV, and ensured it was easy to read on GitHub.
+
+**Result:**
+I successfully created a well-organized CV that is visually appealing and accessible online. I also improved my documentation and formatting skills.
+
+---
+
+## 🎥 Reflection on Mock Interview (STAR Method)
+**Situation:**
+I participated in a mock interview to prepare for real-world job opportunies.
+
+**Task:**
+My task was to present myself professionally, answer questions confidently, and demonstrate my skills.
+
+**Action:**
+I prepared answers, practiced communication skills, and recorded the interview video.
+
+**Result:**
+I improved my confidence, communication, and ability to present myself professionally. I also identified areas where I can improve.
+
+---
+
+## 🌐 Reflection on GitHub Pages (STAR Method)
+**Situation:**
+I was required to publish my portfolio using GitHub Pages.
+
+**Task:**
+My task was to deploy my repository and ensure it is accessible online.
+
+**Action:**
+I configured GitHub Pages settings, deploy my README file, and tested the live link.
+
+**Result:**
+I successfully published my portfolio online and gained experience in hosting web content using GitHub Pages.
