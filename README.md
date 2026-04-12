@@ -3,6 +3,9 @@
 # Moltinate230074189.github.io
 
 #  💼 Tsebo Moltinate Motsumi
+### ICT Application Development Student
+
+Welcome to my digital portfolio showcasing my skills, projects,and work readiness training.
 
 📍 Cape Town, South Africa
 📧 230074189@mycput.ac.za
@@ -62,9 +65,11 @@ Mophate Secondary School
 Peace Makers Church (Bothaville Branch)
 📞 073 521 8003
 
+---
 ## 🎥Mock Interview
 [Watch my mock interview video here](./Mock_Interview_Video.mp4)
 
+---
 ## 📝 Reflection on Coding in Markdown (STAR Method)
 **Situation:**
 I was required to design my CV using markdown on GitHub as part of my portfolio assignment.
