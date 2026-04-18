@@ -66,10 +66,6 @@ Peace Makers Church (Bothaville Branch)
 📞 073 521 8003
 
 ---
-## 🎥Mock Interview
-[Watch my mock interview video here](./Mock_Interview_Video.mp4)
-
----
 ## 📝 Reflection on Coding in Markdown (STAR Method)
 **Situation:**
 I was required to design my CV using markdown on GitHub as part of my portfolio assignment.
@@ -85,6 +81,10 @@ I successfully created a well-organized CV that is visually appealing and access
 
 ---
 
+## 🎥Mock Interview
+[Watch my mock interview video here](./Mock_Interview_Video.mp4)
+
+---
 ## 🎥 Reflection on Mock Interview (STAR Method)
 **Situation:**
 I participated in a mock interview to prepare for real-world job opportunies.
