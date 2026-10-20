@@ -11,7 +11,6 @@ Welcome to my digital portfolio showcasing my skills, projects,and work readines
 📧 230074189@mycput.ac.za
 🔗 [LinkedIn](https://www.linkedin.com/in/tsebo-moltinate-motsumi-ab532a285)  
 🐙 [Github] (https://github.com/Moltinate230074189)
-📞 065 688 8940
 
 ---
 
@@ -58,12 +57,10 @@ Dedicated and enthusiastic ICT Application Development student seeking an IT Int
 ## 📞 References
 **Ralebeko Maine**
 Mophate Secondary School
-📞 081 772 2142
 📧 83794590@fsschoolportal.gov.za
 
 **Adam Mabaso**
 Peace Makers Church (Bothaville Branch)
-📞 073 521 8003
 
 ---
 ## 📝 Reflection on Coding in Markdown (STAR Method)
