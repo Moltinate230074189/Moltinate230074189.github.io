@@ -136,49 +136,103 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 <h3>Team Charter Screenshots</h3>
 
-<img src = "Agile_Team_Charter/TeamCharter1.png"
-alt = "Team Charter Evidence 1"
-width = "400">
 
-<img src = "Agile_Team_Charter/TeamCharter2.png"
-alt = "Team Charter Evidence 2"
-width = "400">
+<h3>Team Charter Evidence</h3>
 
-<img src = "Agile_Team_Charter/TeamCharter3.png"
-alt = "Team Charter Evidence 3"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter4.png"
-alt = "Team Charter Evidence 4"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter5.png"
-alt = "Team Charter Evidence 5"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter6.png"
-alt = "Team Charter Evidence 6"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter7.png"
-alt = "Team Charter Evidence 7"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter8.png"
-alt = "Team Charter Evidence 8"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter9.png"
-alt = "Team Charter Evidence 9"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharter10.png"
-alt = "Team Charter Evidence 10"
-width = "400">
-
-<img src = "Agile_Team_Charter/TeamCharte11.png"
-alt = "Team Charter Evidence 11"
-width = "400">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter1.png"
+           alt="Team Charter Evidence 1"
+           width="400">
+      <br>
+      <strong>Evidence 1</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter2.png"
+           alt="Team Charter Evidence 2"
+           width="400">
+      <br>
+      <strong>Evidence 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter3.png"
+           alt="Team Charter Evidence 3"
+           width="400">
+      <br>
+      <strong>Evidence 3</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter4.png"
+           alt="Team Charter Evidence 4"
+           width="400">
+      <br>
+      <strong>Evidence 4</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter5.png"
+           alt="Team Charter Evidence 5"
+           width="400">
+      <br>
+      <strong>Evidence 5</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter6.png"
+           alt="Team Charter Evidence 6"
+           width="400">
+      <br>
+      <strong>Evidence 6</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter7.png"
+           alt="Team Charter Evidence 7"
+           width="400">
+      <br>
+      <strong>Evidence 7</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter8.png"
+           alt="Team Charter Evidence 8"
+           width="400">
+      <br>
+      <strong>Evidence 8</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter9.png"
+           alt="Team Charter Evidence 9"
+           width="400">
+      <br>
+      <strong>Evidence 9</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter10.png"
+           alt="Team Charter Evidence 10"
+           width="400">
+      <br>
+      <strong>Evidence 10</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Team_Charter/TeamCharter11.png"
+           alt="Team Charter Evidence 11"
+           width="400">
+      <br>
+      <strong>Evidence 11</strong>
+    </td>
+    <td align="center" width="50%">
+      <!-- Leave this cell empty -->
+    </td>
+  </tr>
+</table>
 
 
 ## Reflection on Agile Team Charter
