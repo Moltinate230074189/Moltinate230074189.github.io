@@ -138,11 +138,38 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 <img src = "Agile_Team_Charter/TeamCharter1.png"
 alt = "Team Charter Evidence 1"
-width = "700">
-
+width = "600">
 <img src = "Agile_Team_Charter/TeamCharter2.png"
 alt = "Team Charter Evidence 2"
-width = "700">
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter3.png"
+alt = "Team Charter Evidence 3"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter4.png"
+alt = "Team Charter Evidence 4"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter5.png"
+alt = "Team Charter Evidence 5"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter6.png"
+alt = "Team Charter Evidence 6"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter7.png"
+alt = "Team Charter Evidence 7"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter8.png"
+alt = "Team Charter Evidence 8"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter9.png"
+alt = "Team Charter Evidence 9"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharter10.png"
+alt = "Team Charter Evidence 10"
+width = "600">
+<img src = "Agile_Team_Charter/TeamCharte11.png"
+alt = "Team Charter Evidence 11"
+width = "600">
+
 
 ## Reflection on Agile Team Charter
 **Situation:**
