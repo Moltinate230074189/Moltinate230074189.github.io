@@ -125,5 +125,9 @@ About the project: Sober Hub is a business idea that gives young people in Katle
 **Introduction**
 An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
 
-**Evidence**
-(./Sober_Hub_Agile_Team_Charter_v2.pdf).
+The following evidence demonstrates the development of our Agile Team Charter.
+
+### Team Charter Document
+
+[View Team Charter PDF](Agile_Team_Charter/Sober_Hub_Agile_Team_Charter_v2.pdf)
+
