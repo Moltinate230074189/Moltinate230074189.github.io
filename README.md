@@ -134,9 +134,15 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 [View Team Charter PDF](Agile_Team_Charter/Sober_Hub_Agile_Team_Charter_v2.pdf)
 
-### Team Charter Screenshots
+<h3>Team Charter Screenshots</h3>
 
+<img src = "Agile_Team_Charter/TeamCharter1.png"
+alt = "Team Charter Evidence 1"
+width = "700">
 
+<img src = "Agile_Team_Charter/TeamCharter2.png"
+alt = "Team Charter Evidence 2"
+width = "700">
 
 ## Reflection on Agile Team Charter
 **Situation:**
