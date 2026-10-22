@@ -136,7 +136,7 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 ### Team Charter Screenshots
 
-![Team Charter Evidence 1](Agile_Team_Charter_/TeamCharter1.png)
+![Team Charter Evidence 1] (Agile_Team_Charter/TeamCharter1.png)
 ![Team Charter Evidence 2](Agile_Team_Charter_/TeamCharter2.png)
 ![Team Charter Evidence 3](Agile_Team_Charter_/TeamCharter3.png)
 ![Team Charter Evidence 4](Agile_Team_Charter_/TeamCharter4.png)
