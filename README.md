@@ -137,9 +137,6 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 <h3>Team Charter Screenshots</h3>
 
-
-<h3>Team Charter Evidence</h3>
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -252,7 +249,137 @@ The charter is now a living document with a version history that new member can 
 **Learning:**
 I learnt that a charter only works if it is revisited and applied, not written once and filed away. I also learnt that clear communication rules protect the team when workloads are uneven. net time I would hold a short charter review in the first week of every project and check it again at each retrospective.
 
-**How this connects to sober Hub**
+**How this connects to sober Hub:**
 Sober Hub is about trust, safety and consistent support for young people. a team that wants to build that kind of service must itself be reliable, respectful and accountable. The charter's values (respect, transparency, accountability, trust) are the same values Sober Hub promises its users.
 
+---
 
+## 2. User Stories and Tasks
+
+**Introduction:**
+A user story describes a feature from the end user's point of view ("As a ..., I want ..., so that ..."). Each story is then broken into smaller tasks the team can complete and tick off. I include this section to show how the Sober Hub idea was turned into work the team could build and track.
+
+The following evidence demonstrates the development of our User Stories and Tasks.
+
+<h3>Team Charter Screenshots</h3>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User1_day3.png"
+           alt="User Stories Evidence 1"
+           width="400">
+      <br>
+      <strong>Evidence 1</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User2_day5.png"
+           alt="User Stories Evidence 2"
+           width="400">
+      <br>
+      <strong>Evidence 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User3_day10.png"
+           alt="User Stories Evidence 3"
+           width="400">
+      <br>
+      <strong>Evidence 3</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User4_day10.png"
+           alt="User Stories Evidence 4"
+           width="400">
+      <br>
+      <strong>Evidence 4</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User5_day8.png"
+           alt="User Stories Evidence 5"
+           width="400">
+      <br>
+      <strong>Evidence 5</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User6_day10.png"
+           alt="User Stories Evidence 6"
+           width="400">
+      <br>
+      <strong>Evidence 6</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User7_day10.png"
+           alt="User Stories Evidence 7"
+           width="400">
+      <br>
+      <strong>Evidence 7</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User8_day10.png"
+           alt="User Stories Evidence 8"
+           width="400">
+      <br>
+      <strong>Evidence 8</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User9_day10.png"
+           alt="User Stories Evidence 9"
+           width="400">
+      <br>
+      <strong>Evidence 9</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_Tasks/User10_day11.png"
+           alt="User Stories Evidence 10"
+           width="400">
+      <br>
+      <strong>Evidence 10</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User11_day8.png"
+           alt="User Stories Evidence 11"
+           width="400">
+      <br>
+      <strong>Evidence 11</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="User_Stories_And_Tasks/User12_day8.png"
+           alt="User Stories Evidence 12"
+           width="400">
+      <br>
+      <strong>Evidence 12</strong>
+    </td>
+    <td align="center" width="50%">
+      <!-- Leave this cell empty -->
+    </td>
+  </tr>
+</table>
+
+## Reflection on User Stories and Tasks
+**Situation:**
+After the lecturer approved our business idea, we had to turn Sober Hub into something we could design and build, working in short sprints on Trello.
+
+**Task:**
+I needed to describe what our users (young people in recovery, parents and community members) need, and then spilt that into small tasks the team could finish and tick off.
+
+**Action:**
+We organised the work into cards with checklists, for example the survey cards in Sprint 2 and the website page cards in Sprint 10 (Landing Page, Membership, Sober Buddy, Skills Labb, Contact, Dashboard and Responsive Design). I wrote the user stories to explain why each page exists, not only what to build. Along the way we changed approach when the lecturer advised moving the wireframes from HTML to Figma.
+
+**Result:**
+Sprints 1 to 3, 5-9 were completed with all the checklist items ticked, and the website was presented on 4 August 2026.
+
+**Learning:**
+I learnt that a task list alone does not explain who the feature is for; the user story keeps the design focused on the person using it. I also noticed that every card on our board is assigned to all four members, which makes it hard to see who did what. next time I would assign each card or checklist item to one named owner and add acceptance criteria to every story but since Trello needed me to pay for that member assign task next time I will be more prepared and adhere to every rule.
+
+**How this connects to Sober Hub:**
+Our users are vulnerable young people, so every page has to be simple, welcoming and easy to use on a phone. Writing stories from their point of view, such as the Sober Buddy support story, kept the design focused on their needs.
