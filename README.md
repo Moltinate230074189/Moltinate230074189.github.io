@@ -111,4 +111,19 @@ I configured GitHub Pages settings, deploy my README file, and tested the live l
 I successfully published my portfolio online and gained experience in hosting web content using GitHub Pages.
 
 # 🚀 Agile Project Portfolio: Sober Hub
-### Module: Project Presentation | Role: Team Leader and Presenter | Project: Sober Hub (youth recovery support in Katlehong)
+## Module: Project Presentation | Role: Team Leader and Presenter | Project: Sober Hub (youth recovery support in Katlehong)
+
+About the project: Sober Hub is a business idea that gives young people in Katlehong who are recovering from substance abuse a safe space, peer mentorship, skills development and WhatsApp-based support. My team and I worked on it using Agile (Scrum and Kanban) from research and wireframes to a working website prototype on GitHub Pages.
+
+**Live prototype**: 
+**Trello Board**: 
+
+---
+
+## 1. Agile Team Charter
+
+**Introduction**
+An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
+
+**Evidence**
+
