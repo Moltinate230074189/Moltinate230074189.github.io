@@ -110,19 +110,22 @@ I configured GitHub Pages settings, deploy my README file, and tested the live l
 **Result:**
 I successfully published my portfolio online and gained experience in hosting web content using GitHub Pages.
 
+---
+
 # 🚀 Agile Project Portfolio: Sober Hub
 ## Module: Project Presentation | Role: Team Leader and Presenter | Project: Sober Hub (youth recovery support in Katlehong)
 
 About the project: Sober Hub is a business idea that gives young people in Katlehong who are recovering from substance abuse a safe space, peer mentorship, skills development and WhatsApp-based support. My team and I worked on it using Agile (Scrum and Kanban) from research and wireframes to a working website prototype on GitHub Pages.
 
-**Live prototype**: 
-**Trello Board**: 
+**Live prototype:**
 
+**Trello Board:** 
+https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
 ---
 
 ## 1. Agile Team Charter
 
-**Introduction**
+**Introduction:**
 An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
 
 The following evidence demonstrates the development of our Agile Team Charter.
@@ -130,4 +133,38 @@ The following evidence demonstrates the development of our Agile Team Charter.
 ### Team Charter Document
 
 [View Team Charter PDF](Agile_Team_Charter/Sober_Hub_Agile_Team_Charter_v2.pdf)
+
+### Team Charter Screenshots
+
+![Team Charter Evidence 1](Agile_Team_Charter_/TeamCharter1.png)
+![Team Charter Evidence 2](Agile_Team_Charter_/TeamCharter2.png)
+![Team Charter Evidence 3](Agile_Team_Charter_/TeamCharter3.png)
+![Team Charter Evidence 4](Agile_Team_Charter_/TeamCharter4.png)
+![Team Charter Evidence 5](Agile_Team_Charter_/TeamCharter5.png)
+![Team Charter Evidence 6](Agile_Team_Charter_/TeamCharter6.png)
+![Team Charter Evidence 7](Agile_Team_Charter_/TeamCharter7.png)
+![Team Charter Evidence 8](Agile_Team_Charter_/TeamCharter8.png)
+![Team Charter Evidence 9](Agile_Team_Charter_/TeamCharter9.png)
+![Team Charter Evidence 10](Agile_Team_Charter_/TeamCharter10.png)
+![Team Charter Evidence 11](Agile_Team_Charter_/TeamCharter11.png)
+
+## Reflection on Agile Team Charter
+**Situation:**
+We created the first charter on 1st May 2026 so the group would have agreed rules for the Sober Hub project. Later, a new member asked to join, and my logbook showed that the original charter was not solving some real problems.
+
+**Task:**
+As a Team Leader, I had to make sure the charter matched how we actually worked and could include new members.
+
+**Action:**
+I reviewed Version 1.0 against my logbook entries. I found gaps; some roles had no names, the framework said Kanban although we used a Scrum board, and there was nothing about missed messages or uneven participation. In Version 2.0 I confirmed Scrum + Kanban, updated the roles, added response times, an announcemnet rule, an attendance rule, an accountability process, an onboarding checklist for new members and a stronger Definition of Done for documents, design and code.
+
+**Result:**
+The charter is now a living document with a version history that new member can sign. the new member approved of it and the Version 2.0 is better and livelier than the first version. 
+
+**Learning:**
+I learnt that a charter only works if it is revisited and applied, not written once and filed away. I also learnt that clear communication rules protect the team when workloads are uneven. net time I would hold a short charter review in the first week of every project and check it again at each retrospective.
+
+**How this connects to sober Hub**
+Sober Hub is about trust, safety and consistent support for young people. a team that wants to build that kind of service must itself be reliable, respectful and accountable. The charter's values (respect, transparency, accountability, trust) are the same values Sober Hub promises its users.
+
 
