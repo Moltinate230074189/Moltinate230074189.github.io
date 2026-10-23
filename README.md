@@ -388,17 +388,14 @@ The following evidence demonstrates the development of our Product Backlog.
 | Week      | Main Product Backlog items (from my logbook)
 |-------    |  --------------------------------------------
 14-17 July    Implement lecturer feedback that needs team discussion; decide
-                presentation responsibilities; finalise the presentation.
-|------     | ----------------------------------------------        
+                presentation responsibilities; finalise the presentation.  
 21-24 July    Prepare wireframes for the Sober Hub application/website; refine
-                presentation slides; prepare for lecturer review.
-|-----      | -----------------------------------------------                
+                presentation slides; prepare for lecturer review.               
 28-31 July    Improve wireframes based on feedback; finalise Figma wireframes;
-                begin frontend development
-|-----      | -----------------------------------------------                
+                begin frontend development               
 4-7 July      Fix the application logo; complete Sprint Boards; finalise Brand
                 Guide; divide tasks for the next week.
-|-----      | -----------------------------------------------          
+        
 
 ## Reflection
 **Situation:**
@@ -419,4 +416,76 @@ I learnt that a backlog is never finished and must be reordered when feedback ar
 **How this connects to Sober Hub:**
 Sober Hub has to respond to what the community needs. Reordering the backlog after each round of feedback follows the sample principle: listen, adjust, and deliver the most valuable features first.
 
+## 4. Sprint Backlog
+## Introduction
+A Sprint Backlog is the set of backlog items the team commits to finishing in one sprint, with the tasks needed to do it. I included it to show how the project was divided into focused phases of work.
+
+The following evidence demonstrates the development of our Sprint Backlog.
+
+## Reflection
+**Situation:**
+Our Trello board divides the project into 12 sprints, from planning and research through to development and testing. Sprint Boards had to be completed and presented at short notice on 6 August (I only learnt on 5 August that they were due the next day).
+
+**Tasks:**
+Make sure each sprint had a clear theme and a manageable set of cards, present the boards, and then divide the following week's tasks among the team.
+
+**Action:**
+I completed and practised the Sprint Board presentation, presented on 6 August, noted the lecturer's feedback, and on the 7th August the team divided the next week's work. Each card has a checklist so progress is visible, for example 4/4 on every Sprint 10 card.
+
+**Result:**
+Sprints 1 to 10 show completed checklists, and the Sprint Boards and Brand Guide were presented without major issues. Sprint 11 has one card (User Authentication, 4/4) and Sprint 12 (Testing and Deployment) the cards have been updated.
+
+**Learning:**
+I learnt that sprints work best when each one has a single theme and small, checkable tasks, and that the plan only helps if everyone can see who owns what. I also learnt to manage my time when several deliverables fall close together. Next time I would plan each sprint at the start of the week, give every card a named owner and due data, and plan the last sprints (testing and deployment) earlier.
+
+**How this connects to Sober Hub:**
+Recovery is made of small, consistent steps. Our sprints do the same for the project: short, focused cycles that move Sober Hub forward each week.
+
+## 5. Agile Logbook
+## Introduction
+My Agile Logbook records my daily stand-ups (what I completed, what I plan to do, and what is blocking me), plus a Taskboard and a Walkthrough each week. It shows my day-to-day contribution and how the project progressed from 14 July to 7 August 2026.
+
+## Evidence
+
+## Progress timeline from my logbook
+| Date      | Milestone
+14-15 July    Entrepreneurial WIL briefing; created the PowerPoint; presented the
+              business idea and received lecturer feedback.
+16-17 July    Reviewed feedback and improved the presentation.
+21-22 July    Agreed to build wireframes; presented to the lecturer for the Product
+              Backlog.
+24 July       Completed improvements for the lecturer consultation.
+28 July      Presented wireframes; lecturer advised redoing them in Figma.
+31 July      Received instruction to start the frontend; began development.
+4 August     Presented the website on GitHub Pages; fixed the missing logo the same
+             day.
+6 August    Presented Sprint Board and the Brand Guide.
+7 August    Team divided the next week's tasks.
+
+## Reflection
+**Situation:**
+Over four weeks I recorded daily stand-ups while the project moved from presentation, to wireframes, to a website, to Sprint Boards and a Brand Guide.
+
+**Task:**
+Keep an honest, up-to-date record and use it to spot problems early.
+
+**Action:**
+I completed my daily stand-up each day and answered the weekly Walkthrough questions. the logbook showed a recurring blocker; communication. Messages were sometimes late, and several tasks had to be done by me individually. I responded by taking initiative (for example creating the PowerPoint on 14 July, and continuing the frontend over the weekend before the 4 August presentation), by asking teammates to attend a consultation I could not attend, and by proposing clearer communication and accountability rules in Charter Version 2.0.
+
+**Result:**
+The logbook gave me evidence to improve the team's working agreements and showed steady delivery: presentations, wireframes, website, Sprint Boards and Brand Guide were all presented.
+
+**Learning:**
+I learnt that stand-ups work when everyone takes part, and that a leader has to balance doing the work with enabling the team. I learnt about time management, adapting to feedback (switching to Figma) and the importance of communication. Next time I would confirm important messages were received, share tasks earlier, and rotate presenters so that more members are prepared.
+
+**How this connects to Sober Hub:**
+The logbook records the real journey of building Sober Hub, including the setbacks. the same honesty, regular check-in and continuous improvement are what we want Sober Hub to offer young people in recovery.
+
+# 🔗 Connecting it all together
+**Collect → Select → Reflect → Connect**. I collected my Agile artefacts (charter, stories, backlogs, sprint boards, logbook), selected the ones that best show my learning, reflected on each, and connected them:
+The **Charter** set the rules for how we work.
+**User Stories** defined what Sober Hub should do for its users.
+The **Product Backlog** held everything the project needed, ordered by priority.
+The **Sprint Backlog** broke that work into weekly pieces.
+The **Logbook** recorded what actually happened each day and showed me where the process needed to improve.
 
