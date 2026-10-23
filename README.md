@@ -115,7 +115,8 @@ I successfully published my portfolio online and gained experience in hosting we
 # 🚀 Agile Project Portfolio: Sober Hub
 ## Module: Project Presentation | Role: Team Leader and Presenter | Project: Sober Hub (youth recovery support in Katlehong)
 
-About the project: Sober Hub is a business idea that gives young people in Katlehong who are recovering from substance abuse a safe space, peer mentorship, skills development and WhatsApp-based support. My team and I worked on it using Agile (Scrum and Kanban) from research and wireframes to a working website prototype on GitHub Pages.
+## About the project 
+Sober Hub is a business idea that gives young people in Katlehong who are recovering from substance abuse a safe space, peer mentorship, skills development and WhatsApp-based support. My team and I worked on it using Agile (Scrum and Kanban) from research and wireframes to a working website prototype on GitHub Pages.
 
 **Live prototype:**
 https://sober-hub-project.vercel.app/
@@ -125,8 +126,7 @@ https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
 ---
 
 ## 1. Agile Team Charter
-
-**Introduction:**
+## Introduction
 An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
 
 The following evidence demonstrates the development of our Agile Team Charter.
@@ -255,8 +255,7 @@ Sober Hub is about trust, safety and consistent support for young people. a team
 ---
 
 ## 2. User Stories and Tasks
-
-**Introduction:**
+## Introduction
 A user story describes a feature from the end user's point of view ("As a ..., I want ..., so that ..."). Each story is then broken into smaller tasks the team can complete and tick off. I include this section to show how the Sober Hub idea was turned into work the team could build and track.
 
 The following evidence demonstrates the development of our User Stories and Tasks.
@@ -371,8 +370,7 @@ I learnt that a task list alone does not explain who the feature is for; the use
 Our users are vulnerable young people, so every page has to be simple, welcoming and easy to use on a phone. Writing stories from their point of view, such as the Sober Buddy support story, kept the design focused on their needs.
 
 ## 3. Product Backlog
-
-**Introduction:**
+## Introduction
 The Product backlog is the ordered list of everything still to be build or improved. it changes whenever feedback arrives. I include it to show what remained to be done and how our priorities evolved.
 
 The following evidence demonstrates the development of our Product Backlog.
