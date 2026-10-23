@@ -336,6 +336,7 @@ The following evidence demonstrates the development of our User Stories and Task
       <br>
       <strong>Evidence 9</strong>
     </td>
+    <tr>
     <td align="center" width="50%">
       <img src="User_Stories_Tasks/User10_day11.png"
            alt="User Stories Evidence 10"
@@ -352,15 +353,14 @@ The following evidence demonstrates the development of our User Stories and Task
       <br>
       <strong>Evidence 11</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="User_Stories_And_Tasks/User12_day8.png"
            alt="User Stories Evidence 12"
            width="400">
       <br>
       <strong>Evidence 12</strong>
-    </td>
-    <td align="center" width="50%">
-      <!-- Leave this cell empty -->
     </td>
   </tr>
 </table>
