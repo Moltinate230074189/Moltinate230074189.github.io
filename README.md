@@ -387,14 +387,18 @@ The following evidence demonstrates the development of our Product Backlog.
   
 | Week      | Main Product Backlog items (from my logbook)
 |-------    |  --------------------------------------------
-|14-17 July |   Implement lecturer feedback that needs team discussion; decide
+14-17 July    Implement lecturer feedback that needs team discussion; decide
                 presentation responsibilities; finalise the presentation.
-|21-24 July |   Prepare wireframes for the Sober Hub application/website; refine
+|------     | ----------------------------------------------        
+21-24 July    Prepare wireframes for the Sober Hub application/website; refine
                 presentation slides; prepare for lecturer review.
-|28-31 July |   Improve wireframes based on feedback; finalise Figma wireframes;
+|-----      | -----------------------------------------------                
+28-31 July    Improve wireframes based on feedback; finalise Figma wireframes;
                 begin frontend development
-|4-7 July   |   Fix the application logo; complete Sprint Boards; finalise Brand
+|-----      | -----------------------------------------------                
+4-7 July      Fix the application logo; complete Sprint Boards; finalise Brand
                 Guide; divide tasks for the next week.
+|-----      | -----------------------------------------------          
 
 ## Reflection
 **Situation:**
