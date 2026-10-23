@@ -261,106 +261,92 @@ A user story describes a feature from the end user's point of view ("As a ..., I
 
 The following evidence demonstrates the development of our User Stories and Tasks.
 
-<h3>Team Charter Screenshots</h3>
+
+<h3>User Stories and Tasks Screenshots</h3>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User1_day3.png"
-           alt="User Stories Evidence 1"
-           width="400">
-      <br>
-      <strong>Evidence 1</strong>
+      <img src="User_Stories_And_Tasks/User1_day3.png" 
+        alt="User Stories Evidence 1" 
+        width="400">
+      <br><strong>Evidence 1</strong>
     </td>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User2_day5.png"
-           alt="User Stories Evidence 2"
-           width="400">
-      <br>
-      <strong>Evidence 2</strong>
+      <img src="User_Stories_And_Tasks/User2_day5.png" 
+        alt="User Stories Evidence 2" 
+        width="400">
+      <br><strong>Evidence 2</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User3_day10.png"
-           alt="User Stories Evidence 3"
-           width="400">
-      <br>
-      <strong>Evidence 3</strong>
+      <img src="User_Stories_And_Tasks/User3_day10.png" 
+        alt="User Stories Evidence 3" 
+        width="400">
+      <br><strong>Evidence 3</strong>
     </td>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User4_day10.png"
-           alt="User Stories Evidence 4"
-           width="400">
-      <br>
-      <strong>Evidence 4</strong>
+      <img src="User_Stories_And_Tasks/User4_day10.png" 
+        alt="User Stories Evidence 4" 
+        width="400">
+      <br><strong>Evidence 4</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User5_day8.png"
-           alt="User Stories Evidence 5"
-           width="400">
-      <br>
-      <strong>Evidence 5</strong>
+      <img src="User_Stories_And_Tasks/User5_day8.png" 
+        alt="User Stories Evidence 5" 
+        width="400">
+      <br><strong>Evidence 5</strong>
     </td>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User6_day10.png"
-           alt="User Stories Evidence 6"
-           width="400">
-      <br>
-      <strong>Evidence 6</strong>
+      <img src="User_Stories_And_Tasks/User6_day10.png" 
+        alt="User Stories Evidence 6" 
+        width="400">
+      <br><strong>Evidence 6</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User7_day10.png"
-           alt="User Stories Evidence 7"
-           width="400">
-      <br>
-      <strong>Evidence 7</strong>
+      <img src="User_Stories_And_Tasks/User7_day10.png" 
+        alt="User Stories Evidence 7" 
+        width="400">
+      <br><strong>Evidence 7</strong>
     </td>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User8_day10.png"
-           alt="User Stories Evidence 8"
-           width="400">
-      <br>
-      <strong>Evidence 8</strong>
+      <img src="User_Stories_And_Tasks/User8_day10.png" 
+        alt="User Stories Evidence 8" 
+        width="400">
+      <br><strong>Evidence 8</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User9_day10.png"
-           alt="User Stories Evidence 9"
-           width="400">
-      <br>
-      <strong>Evidence 9</strong>
+      <img src="User_Stories_And_Tasks/User9_day10.png" 
+        alt="User Stories Evidence 9" 
+        width="400">
+      <br><strong>Evidence 9</strong>
     </td>
-    <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_Tasks/User10_day11.png"
-           alt="User Stories Evidence 10"
-           width="400">
-      <br>
-      <strong>Evidence 10</strong>
+      <img src="User_Stories_And_Tasks/User10_day11.png" 
+        alt="User Stories Evidence 10" 
+        width="400">
+      <br><strong>Evidence 10</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User11_day8.png"
-           alt="User Stories Evidence 11"
-           width="400">
-      <br>
-      <strong>Evidence 11</strong>
+      <img src="User_Stories_And_Tasks/User11_day8.png" 
+        alt="User Stories Evidence 11" 
+        width="400">
+      <br><strong>Evidence 11</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User12_day8.png"
-           alt="User Stories Evidence 12"
-           width="400">
-      <br>
-      <strong>Evidence 12</strong>
+      <img src="User_Stories_And_Tasks/User12_day8.png" 
+        alt="User Stories Evidence 12" 
+        width="400">
+      <br><strong>Evidence 12</strong>
     </td>
   </tr>
 </table>
