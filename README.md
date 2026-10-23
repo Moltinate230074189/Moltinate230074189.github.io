@@ -379,9 +379,40 @@ The following evidence demonstrates the development of our Product Backlog.
 
 <h3>Product Backlog Evidence</h3>
 
-  <img src="Product_Backlog/Backlog1.png"
-       alt="Product Backlog Evidence 1"
-       width="600">
+  <img src = "Product_Backlog/Backlog%1.png"
+       alt = "Product Backlog Evidence 1"
+       width = "600">
+
+  My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
+| Week      | Main Product Backlog items (from my logbook)
+-------      --------------------------------------------
+14-17 July    Implement lecturer feedback that needs team discussion; decide
+              presentation responsibilities; finalise the presentation.
+21-24 July    Prepare wireframes for the Sober Hub application/website; refine
+              presentation slides; prepare for lecturer review.
+28-31 July    Improve wireframes based on feedback; finalise Figma wireframes;
+              begin frontend development
+4-7 July      Fix the application logo; complete Sprint Boards; finalise Brand
+              Guide; divide tasks for the next week.
+
+## Reflection
+**Situation:**
+The backlog began with research and presentation work and grew into design and development as the lecturer gave feedback on each presentation.
+
+**Task:**
+I had to keep the backlog current and make sure the most important items were ready to move into a sprint.
+
+**Action:**
+After each presentation I turned the lecturer's comments into backlog items. For example, feedback on 28 July led us to rebuild the wireframes in Figma (now the "Develop Figma Prototype" card) and start the frontend, and feedback on 4 August added the logo fix. When a sprint started, the cards were moved out of the Product backlog into that sprint.
+
+**Result:**
+The backlog moved from presentation slides, to wireframes, to a working website, top the Brand Guide and Sprint Boards. The remaining items are the unfinished pages and the Figma prototype.
+
+**Learning:**
+I learnt that a backlog is never finished and must be reordered when feedback arrives. I also learnt that the highest-priority work should sit at the top. next time I would add a priority label (must-have, should-have, could-have) and a due date to every backlog card.
+
+**How this connects to Sober Hub:**
+Sober Hub has to respond to what the community needs. Reordering the backlog after each round of feedback follows the sample principle: listen, adjust, and deliver the most valuable features first.
 
 
