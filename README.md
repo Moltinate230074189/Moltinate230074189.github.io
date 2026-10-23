@@ -379,10 +379,9 @@ The following evidence demonstrates the development of our Product Backlog.
 
 <h3>Product Backlog Evidence</h3>
 
-  <img src="Product_Backlog/Backlog%1.png"
-       alt="Product Backlog Evidence"
+  <img src="Product_Backlog/Backlog1.png"
+       alt="Product Backlog Evidence 1"
        width="600">
-  <br>
-  <strong>Product Backlog Evidence 1</strong>
+  
 
 
