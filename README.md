@@ -378,11 +378,11 @@ The Product backlog is the ordered list of everything still to be build or impro
 The following evidence demonstrates the development of our Product Backlog.
 
 <h3>Product Backlog Evidence</h3>
-<p align="center">
+
   <img src="Product_Backlog/Backlog%1.png"
        alt="Product Backlog Evidence"
        width="600">
   <br>
   <strong>Product Backlog Evidence 1</strong>
-</p>
+
 
