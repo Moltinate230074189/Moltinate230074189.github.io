@@ -392,16 +392,35 @@ The following evidence demonstrates the development of our Product Backlog.
 
   My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
-| Week      | Main Product Backlog items (from my logbook)
-|-------    |  --------------------------------------------
-14-17 July    Implement lecturer feedback that needs team discussion; decide
-                presentation responsibilities; finalise the presentation.  
-21-24 July    Prepare wireframes for the Sober Hub application/website; refine
-                presentation slides; prepare for lecturer review.               
-28-31 July    Improve wireframes based on feedback; finalise Figma wireframes;
-                begin frontend development               
-4-7 July      Fix the application logo; complete Sprint Boards; finalise Brand
-                Guide; divide tasks for the next week.
+### Product Backlog – Weekly Activities
+
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Main Product Backlog Items (from my logbook)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14–17 July</td>
+      <td>Implement lecturer feedback that requires team discussion; decide presentation responsibilities; and finalise the presentation.</td>
+    </tr>
+    <tr>
+      <td>21–24 July</td>
+      <td>Prepare wireframes for the Sober Hub application/website; refine presentation slides; and prepare for lecturer review.</td>
+    </tr>
+    <tr>
+      <td>28–31 July</td>
+      <td>Improve wireframes based on feedback; finalise Figma wireframes; and begin frontend development.</td>
+    </tr>
+    <tr>
+      <td>4–7 August</td>
+      <td>Fix the application logo; complete Sprint Boards; finalise the Brand Guide; and divide tasks for the following week.</td>
+    </tr>
+  </tbody>
+</table>
+
         
 
 ## Reflection
@@ -483,19 +502,53 @@ My Agile Logbook records my daily stand-ups (what I completed, what I plan to do
 ## Evidence
 
 ## Progress timeline from my logbook
-| Date      | Milestone
-14-15 July    Entrepreneurial WIL briefing; created the PowerPoint; presented the
-              business idea and received lecturer feedback.
-16-17 July    Reviewed feedback and improved the presentation.
-21-22 July    Agreed to build wireframes; presented to the lecturer for the Product
-              Backlog.
-24 July       Completed improvements for the lecturer consultation.
-28 July      Presented wireframes; lecturer advised redoing them in Figma.
-31 July      Received instruction to start the frontend; began development.
-4 August     Presented the website on GitHub Pages; fixed the missing logo the same
-             day.
-6 August    Presented Sprint Board and the Brand Guide.
-7 August    Team divided the next week's tasks.
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Milestone</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14–15 July</td>
+      <td>Attended the Entrepreneurial WIL briefing, created the PowerPoint presentation, presented the business idea, and received lecturer feedback.</td>
+    </tr>
+    <tr>
+      <td>16–17 July</td>
+      <td>Reviewed the lecturer's feedback and improved the presentation.</td>
+    </tr>
+    <tr>
+      <td>21–22 July</td>
+      <td>Agreed to develop wireframes and presented the Product Backlog to the lecturer.</td>
+    </tr>
+    <tr>
+      <td>24 July</td>
+      <td>Completed improvements in preparation for the lecturer consultation.</td>
+    </tr>
+    <tr>
+      <td>28 July</td>
+      <td>Presented the wireframes. The lecturer advised the team to recreate them in Figma.</td>
+    </tr>
+    <tr>
+      <td>31 July</td>
+      <td>Received instructions to begin frontend development and started working on the frontend.</td>
+    </tr>
+    <tr>
+      <td>4 August</td>
+      <td>Presented the website hosted on GitHub Pages and fixed the missing application logo on the same day.</td>
+    </tr>
+    <tr>
+      <td>6 August</td>
+      <td>Presented the Sprint Board and Brand Guide.</td>
+    </tr>
+    <tr>
+      <td>7 August</td>
+      <td>Divided the team's tasks for the following week.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Reflection
 **Situation:**
