@@ -377,9 +377,18 @@ The following evidence demonstrates the development of our Product Backlog.
 
 <h3>Product Backlog Evidence</h3>
 
-  <img src = "Product_Backlog/Backlog%1.png"
-       alt = "Product Backlog Evidence 1"
-       width = "600">
+<table>
+  <tr>
+    <td align="center">
+      <img src="Product_Backlog/Backlog%201.png" 
+        alt="Product Backlog Evidence"
+        width="400">
+      <br>
+      <strong>Product Backlog Screenshot</strong>
+    </td>
+  </tr>
+</table>
+ 
 
   My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
@@ -419,6 +428,34 @@ Sober Hub has to respond to what the community needs. Reordering the backlog aft
 A Sprint Backlog is the set of backlog items the team commits to finishing in one sprint, with the tasks needed to do it. I included it to show how the project was divided into focused phases of work.
 
 The following evidence demonstrates the development of our Sprint Backlog.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Sprint_Backlog/FinalSprint_1.png" 
+        alt="Sprint Backlog Evidence 1" 
+        width="100%">
+      <br>
+      <strong>Sprint Backlog – Screenshot 1</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Sprint_Backlog/FinalSprint_2.png" 
+        alt="Sprint Backlog Evidence 2" 
+        width="100%">
+      <br>
+      <strong>Sprint Backlog – Screenshot 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="Sprint_Backlog/FinalSprint_3.png" 
+        alt="Sprint Backlog Evidence 3" 
+        width="70%">
+      <br>
+      <strong>Sprint Backlog – Screenshot 3</strong>
+    </td>
+  </tr>
+</table>
 
 ## Reflection
 **Situation:**
