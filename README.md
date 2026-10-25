@@ -260,7 +260,6 @@ A user story describes a feature from the end user's point of view ("As a ..., I
 
 The following evidence demonstrates the development of our User Stories and Tasks.
 
-
 <h3>User Stories and Tasks Screenshots</h3>
 
 <table>
@@ -336,9 +335,11 @@ The following evidence demonstrates the development of our User Stories and Task
   </tr>
   <tr>
     <td align="center" width="50%">
+       <a href="./User_Stories_And_Tasks/User11_day8.png">
       <img src="User_Stories_And_Tasks/User11_day8.png" 
         alt="User Stories Evidence 11" 
         width="400">
+       </a>
       <br><strong>Evidence 11</strong>
     </td>
     <td align="center" width="50%">
