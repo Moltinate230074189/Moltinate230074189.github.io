@@ -499,7 +499,77 @@ Recovery is made of small, consistent steps. Our sprints do the same for the pro
 ## Introduction
 My Agile Logbook records my daily stand-ups (what I completed, what I plan to do, and what is blocking me), plus a Taskboard and a Walkthrough each week. It shows my day-to-day contribution and how the project progressed from 14 July to 7 August 2026.
 
-## Evidence
+The following evidence demonstrates the development of our Agile Logbook.
+
+### Agile Logbook Document
+
+[View Agile Logbook PDF](Agile_Logbook/Week1_14-17_July.pdf)
+[View Agile Logbook PDF](Agile_Logbook/Week2_21-24_July.pdf)
+[View Agile Logbook PDF](Agile_Logbook/Week3_28-31_July.pdf)
+[View Agile Logbook PDF](Agile_Logbook/Week4_04-07_July.pdf)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile1.png" alt="Agile Logbook Screenshot 1" width="100%">
+      <br><strong>Agile Logbook – Evidence 1</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile2.png" alt="Agile Logbook Screenshot 2" width="100%">
+      <br><strong>Agile Logbook – Evidence 2</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile3.png" alt="Agile Logbook Screenshot 3" width="100%">
+      <br><strong>Agile Logbook – Evidence 3</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile4.png" alt="Agile Logbook Screenshot 4" width="100%">
+      <br><strong>Agile Logbook – Evidence 4</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile5.png" alt="Agile Logbook Screenshot 5" width="100%">
+      <br><strong>Agile Logbook – Evidence 5</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile6.png" alt="Agile Logbook Screenshot 6" width="100%">
+      <br><strong>Agile Logbook – Evidence 6</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile7.png" alt="Agile Logbook Screenshot 7" width="100%">
+      <br><strong>Agile Logbook – Evidence 7</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile8.png" alt="Agile Logbook Screenshot 8" width="100%">
+      <br><strong>Agile Logbook – Evidence 8</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile9.png" alt="Agile Logbook Screenshot 9" width="100%">
+      <br><strong>Agile Logbook – Evidence 9</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile10.png" alt="Agile Logbook Screenshot 10" width="100%">
+      <br><strong>Agile Logbook – Evidence 10</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile11.png" alt="Agile Logbook Screenshot 11" width="100%">
+      <br><strong>Agile Logbook – Evidence 11</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="Agile_Logbook/Agile12.png" alt="Agile Logbook Screenshot 12" width="100%">
+      <br><strong>Agile Logbook – Evidence 12</strong>
+    </td>
+  </tr>
+</table>
 
 ## Progress timeline from my logbook
 
