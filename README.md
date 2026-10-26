@@ -335,11 +335,9 @@ The following evidence demonstrates the development of our User Stories and Task
   </tr>
   <tr>
     <td align="center" width="50%">
-       <a href="./User_Stories_And_Tasks/User11_day8.png">
       <img src="User_Stories_And_Tasks/User11_day8.png" 
         alt="User Stories Evidence 11" 
         width="400">
-       </a>
       <br><strong>Evidence 11</strong>
     </td>
     <td align="center" width="50%">
@@ -422,9 +420,7 @@ The following evidence demonstrates the development of our Product Backlog.
   </tbody>
 </table>
 
-        
-
-## Reflection
+## Reflection on Product Backlog
 **Situation:**
 The backlog began with research and presentation work and grew into design and development as the lecturer gave feedback on each presentation.
 
@@ -477,7 +473,7 @@ The following evidence demonstrates the development of our Sprint Backlog.
   </tr>
 </table>
 
-## Reflection
+## Reflection on Sprint Backlog
 **Situation:**
 Our Trello board divides the project into 12 sprints, from planning and research through to development and testing. Sprint Boards had to be completed and presented at short notice on 6 August (I only learnt on 5 August that they were due the next day).
 
@@ -505,8 +501,11 @@ The following evidence demonstrates the development of our Agile Logbook.
 ### Agile Logbook Document
 
 [View Agile Logbook PDF](Agile_Logbook/Week1_14-17_July.pdf)
+
 [View Agile Logbook PDF](Agile_Logbook/Week2_21-24_July.pdf)
+
 [View Agile Logbook PDF](Agile_Logbook/Week3_28-31_July.pdf)
+
 [View Agile Logbook PDF](Agile_Logbook/Week4_04-07_July.pdf)
 
 <table>
@@ -621,7 +620,7 @@ The following evidence demonstrates the development of our Agile Logbook.
   </tbody>
 </table>
 
-## Reflection
+## Reflection on Agile Logbook
 **Situation:**
 Over four weeks I recorded daily stand-ups while the project moved from presentation, to wireframes, to a website, to Sprint Boards and a Brand Guide.
 
