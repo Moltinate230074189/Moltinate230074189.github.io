@@ -500,13 +500,13 @@ The following evidence demonstrates the development of our Agile Logbook.
 
 ### Agile Logbook Document
 
-[View Agile Logbook PDF](Agile_Logbook/Week1_14-17_July.pdf)
+[View Agile Logbook for Week 1 PDF](Agile_Logbook/Week1_14-17_July.pdf)
 
-[View Agile Logbook PDF](Agile_Logbook/Week2_21-24_July.pdf)
+[View Agile Logbook for Week 2PDF](Agile_Logbook/Week2_21-24_July.pdf)
 
-[View Agile Logbook PDF](Agile_Logbook/Week3_28-31_July.pdf)
+[View Agile Logbook for Week 3PDF](Agile_Logbook/Week3_28-31_July.pdf)
 
-[View Agile Logbook PDF](Agile_Logbook/Week4_04-07_July.pdf)
+[View Agile Logbook for Week 4PDF](Agile_Logbook/Week4_04-07_July.pdf)
 
 <table>
   <tr>
@@ -628,7 +628,7 @@ Over four weeks I recorded daily stand-ups while the project moved from presenta
 Keep an honest, up-to-date record and use it to spot problems early.
 
 **Action:**
-I completed my daily stand-up each day and answered the weekly Walkthrough questions. the logbook showed a recurring blocker; communication. Messages were sometimes late, and several tasks had to be done by me individually. I responded by taking initiative (for example creating the PowerPoint on 14 July, and continuing the frontend over the weekend before the 4 August presentation), by asking teammates to attend a consultation I could not attend, and by proposing clearer communication and accountability rules in Charter Version 2.0.
+I completed my daily stand-up each day and answered the weekly Walkthrough questions. The logbook showed a recurring blocker; communication. Messages were sometimes late, and several tasks had to be done by me individually. I responded by taking initiative (for example creating the PowerPoint on 14 July, and continuing the frontend over the weekend before the 4 August presentation), by asking teammates to attend a consultation I could not attend, and by proposing clearer communication and accountability rules in Charter Version 2.0.
 
 **Result:**
 The logbook gave me evidence to improve the team's working agreements and showed steady delivery: presentations, wireframes, website, Sprint Boards and Brand Guide were all presented.
@@ -637,7 +637,7 @@ The logbook gave me evidence to improve the team's working agreements and showed
 I learnt that stand-ups work when everyone takes part, and that a leader has to balance doing the work with enabling the team. I learnt about time management, adapting to feedback (switching to Figma) and the importance of communication. Next time I would confirm important messages were received, share tasks earlier, and rotate presenters so that more members are prepared.
 
 **How this connects to Sober Hub:**
-The logbook records the real journey of building Sober Hub, including the setbacks. the same honesty, regular check-in and continuous improvement are what we want Sober Hub to offer young people in recovery.
+The logbook records the real journey of building Sober Hub, including the setbacks. The same honesty, regular check-in and continuous improvement are what we want Sober Hub to offer young people in recovery.
 
 # 🔗 Connecting it all together
 **Collect → Select → Reflect → Connect**. I collected my Agile artefacts (charter, stories, backlogs, sprint boards, logbook), selected the ones that best show my learning, reflected on each, and connected them:
