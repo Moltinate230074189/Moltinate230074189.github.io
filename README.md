@@ -502,11 +502,11 @@ The following evidence demonstrates the development of our Agile Logbook.
 
 [View Agile Logbook for Week 1 PDF](Agile_Logbook/Week1_14-17_July.pdf)
 
-[View Agile Logbook for Week 2PDF](Agile_Logbook/Week2_21-24_July.pdf)
+[View Agile Logbook for Week 2 PDF](Agile_Logbook/Week2_21-24_July.pdf)
 
-[View Agile Logbook for Week 3PDF](Agile_Logbook/Week3_28-31_July.pdf)
+[View Agile Logbook for Week 3 PDF](Agile_Logbook/Week3_28-31_July.pdf)
 
-[View Agile Logbook for Week 4PDF](Agile_Logbook/Week4_04-07_July.pdf)
+[View Agile Logbook for Week 4 PDF](Agile_Logbook/Week4_04-07_July.pdf)
 
 <table>
   <tr>
