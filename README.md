@@ -119,7 +119,7 @@ I successfully published my portfolio online and gained experience in hosting we
 Sober Hub is a business idea that gives young people in Katlehong who are recovering from substance abuse a safe space, peer mentorship, skills development and WhatsApp-based support. My team and I worked on it using Agile (Scrum and Kanban) from research and wireframes to a working website prototype on GitHub Pages.
 
 **Live prototype:**
-https://sober-hub-project.vercel.app/
+https://moltinate230074189.github.io/SoberHub2/
 
 **Trello Board:** 
 https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
