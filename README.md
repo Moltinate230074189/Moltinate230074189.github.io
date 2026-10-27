@@ -20,7 +20,9 @@ University of Technology seeking an IT internship where I can
 apply my programming, web development, database and UI/UX skills.
 I am eager to gain practical industry experience, contribute to
 real projects and continue developing as a technology professional.
+
 ---
+
 ## 🎓  Education
 **Mophate Secondary School**
 -National Senior Certificate (Grade 12) | 2021
@@ -40,7 +42,7 @@ real projects and continue developing as a technology professional.
 ##  💼 Work Experience
 
 **Cashier — MM Makoatsane Services and Bottle Store**  
-*Duration: 7 months*
+*Duration: 1 year*
 
 - Assisted customers and provided friendly service.
 - Processed transactions and handled payments accurately.
@@ -127,6 +129,7 @@ https://moltinate230074189.github.io/SoberHub2/
 
 **Trello Board:** 
 https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
+
 ---
 
 ## 1. Agile Team Charter
