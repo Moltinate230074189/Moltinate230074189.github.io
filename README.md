@@ -14,9 +14,12 @@ Welcome to my digital portfolio showcasing my skills, projects,and work readines
 
 ---
 
-##  🎯  Objective
-Dedicated and enthusiastic ICT Application Development student seeking an IT Internship to apply strong foundations in software development, problem solving, and UI/UX design. Passionate about building innovative technology solutions, learning in a professional environment, and contributing to impactful IT projects.
-
+##  🎯  Career Objective
+I am an ICT Application Development student at Cape Peninsula
+University of Technology seeking an IT internship where I can
+apply my programming, web development, database and UI/UX skills.
+I am eager to gain practical industry experience, contribute to
+real projects and continue developing as a technology professional.
 ---
 ## 🎓  Education
 **Mophate Secondary School**
@@ -28,22 +31,23 @@ Dedicated and enthusiastic ICT Application Development student seeking an IT Int
 
 ---
 ## 🛠️ Technical Skills
--Java Programming Fundamentals
--Web Development (HTML, CSS, JavaScript)
--Database Concepts and Design
--Problem Solving
--UI/UX Design (Figma)
-
+- **Programming:** Java fundamentals
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** Database concepts, design and SQL fundamentals
+- **UI/UX Design:** Figma and interface design
+- **Development Practices:** Git, GitHub and problem-solving
 ---
-##  💼 Experience
-**Cashier**
-*MM Makoatsane Services and Bottle Store* (1 Year)
--Provided excellent customer service
--Handled transactions accurately
--Assisted with stock control
--Improved communication and interpersona skills
+##  💼 Work Experience
 
+**Cashier — MM Makoatsane Services and Bottle Store**  
+*Duration: 7 months*
+
+- Assisted customers and provided friendly service.
+- Processed transactions and handled payments accurately.
+- Assisted with stock control and general store operations.
+- Developed communication, teamwork and problem-solving skills.
 ---
+
 ## 🚀 Projects
 
 - **Study Group Finder App (Java)**  
@@ -235,22 +239,24 @@ The following evidence demonstrates the development of our Agile Team Charter.
 
 ## Reflection on Agile Team Charter
 **Situation:**
-We created the first charter on 1st May 2026 so the group would have agreed rules for the Sober Hub project. Later, a new member asked to join, and my logbook showed that the original charter was not solving some real problems.
+We created our first team charter on 1st May 2026 to establish shared working agreements for the Sober Hub project. As the project progressed, I recognised that some roles and communication expectations needed to be clarified.
 
 **Task:**
-As a Team Leader, I had to make sure the charter matched how we actually worked and could include new members.
+As team leader, I needed to review the charter and ensure that it reflected our actual working practices and could accommodate new members.
 
 **Action:**
-I reviewed Version 1.0 against my logbook entries. I found gaps; some roles had no names, the framework said Kanban although we used a Scrum board, and there was nothing about missed messages or uneven participation. In Version 2.0 I confirmed Scrum + Kanban, updated the roles, added response times, an announcemnet rule, an attendance rule, an accountability process, an onboarding checklist for new members and a stronger Definition of Done for documents, design and code.
+I reviewed the original charter against my Agile Logbook, identified gaps in role allocation and communication, and helped revise the document. Version 2.0 clarified our Scrum and Kanban practices, team responsibilities, communication expectations, accountability and Definition of Done.
 
 **Result:**
-The charter is now a living document with a version history that new member can sign. the new member approved of it and the Version 2.0 is better and livelier than the first version. 
+ The revised charter provides clearer guidance for
+teamwork and gives members a shared reference for expectations
+and responsibilities.
 
 **Learning:**
-I learnt that a charter only works if it is revisited and applied, not written once and filed away. I also learnt that clear communication rules protect the team when workloads are uneven. net time I would hold a short charter review in the first week of every project and check it again at each retrospective.
+I learnt that a team charter should be reviewed as a project develops rather than created once and forgotten. In future projects, I would review the charter early and revisit it during retrospectives.
 
 **How this connects to sober Hub:**
-Sober Hub is about trust, safety and consistent support for young people. a team that wants to build that kind of service must itself be reliable, respectful and accountable. The charter's values (respect, transparency, accountability, trust) are the same values Sober Hub promises its users.
+A project designed to promote trust, safety and consistent support should be developed by a team that practises respect, transparency and accountability.
 
 ---
 
@@ -368,6 +374,8 @@ I learnt that a task list alone does not explain who the feature is for; the use
 **How this connects to Sober Hub:**
 Our users are vulnerable young people, so every page has to be simple, welcoming and easy to use on a phone. Writing stories from their point of view, such as the Sober Buddy support story, kept the design focused on their needs.
 
+---
+
 ## 3. Product Backlog
 ## Introduction
 The Product backlog is the ordered list of everything still to be build or improved. it changes whenever feedback arrives. I include it to show what remained to be done and how our priorities evolved.
@@ -376,20 +384,23 @@ The following evidence demonstrates the development of our Product Backlog.
 
 <h3>Product Backlog Evidence</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="Product_Backlog/Backlog%201.png" 
-        alt="Product Backlog Evidence"
-        width="400">
-      <br>
-      <strong>Product Backlog Screenshot</strong>
-    </td>
-  </tr>
-</table>
- 
+<p>
+  The screenshot below shows the Product Backlog, including
+  prioritised development tasks and their recorded progress.
+</p>
 
-  My Agile Logbook shows how the backlog changed week by week as feedback came in:
+<p align="center">
+  <img src="Product_Backlog/Backlog%201.png"
+       alt="Sober Hub Product Backlog in Trello"
+       width="65%">
+</p>
+
+<p align="center">
+  <em>Evidence 1: Product Backlog showing selected development
+  cards and checklist progress.</em>
+</p>
+
+My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
 ### Product Backlog – Weekly Activities
 
@@ -438,6 +449,8 @@ I learnt that a backlog is never finished and must be reordered when feedback ar
 
 **How this connects to Sober Hub:**
 Sober Hub has to respond to what the community needs. Reordering the backlog after each round of feedback follows the sample principle: listen, adjust, and deliver the most valuable features first.
+
+---
 
 ## 4. Sprint Backlog
 ## Introduction
@@ -491,6 +504,8 @@ I learnt that sprints work best when each one has a single theme and small, chec
 
 **How this connects to Sober Hub:**
 Recovery is made of small, consistent steps. Our sprints do the same for the project: short, focused cycles that move Sober Hub forward each week.
+
+---
 
 ## 5. Agile Logbook
 ## Introduction
@@ -657,3 +672,4 @@ broke that work into weekly pieces.
 The **Logbook:**
 recorded what actually happened each day and showed me where the process needed to improve.
 
+---
