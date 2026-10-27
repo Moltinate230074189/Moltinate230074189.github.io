@@ -133,109 +133,128 @@ https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
 ## Introduction
 An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
 
-The following evidence demonstrates the development of our Agile Team Charter.
+<h3 id="team-charter">1. Agile Team Charter</h3>
 
-### Team Charter Document
-
-[View Team Charter PDF](Agile_Team_Charter/Sober_Hub_Agile_Team_Charter_v2.pdf)
-
-<h3>Team Charter Screenshots</h3>
+<p>
+  The following screenshots provide evidence of the Agile Team
+  Charter and its supporting sections. The charter establishes
+  team responsibilities, communication practices, working
+  agreements and expectations for project delivery.
+</p>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter1.png"
-           alt="Team Charter Evidence 1"
-           width="400">
-      <br>
-      <strong>Evidence 1</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter1.png">
+        <img src="Agile_Team_Charter/TeamCharter1.png"
+             alt="Team Charter Evidence 1"
+             width="100%">
+      </a>
+      <p><strong>Evidence 1</strong><br>Team Charter</p>
     </td>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter2.png"
-           alt="Team Charter Evidence 2"
-           width="400">
-      <br>
-      <strong>Evidence 2</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter3.png"
-           alt="Team Charter Evidence 3"
-           width="400">
-      <br>
-      <strong>Evidence 3</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter4.png"
-           alt="Team Charter Evidence 4"
-           width="400">
-      <br>
-      <strong>Evidence 4</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter2.png">
+        <img src="Agile_Team_Charter/TeamCharter2.png"
+             alt="Team Charter Evidence 2"
+             width="100%">
+      </a>
+      <p><strong>Evidence 2</strong><br>Team Charter supporting section</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter5.png"
-           alt="Team Charter Evidence 5"
-           width="400">
-      <br>
-      <strong>Evidence 5</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter3.png">
+        <img src="Agile_Team_Charter/TeamCharter3.png"
+             alt="Team Charter Evidence 3"
+             width="100%">
+      </a>
+      <p><strong>Evidence 3</strong><br>Team agreements</p>
     </td>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter6.png"
-           alt="Team Charter Evidence 6"
-           width="400">
-      <br>
-      <strong>Evidence 6</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter7.png"
-           alt="Team Charter Evidence 7"
-           width="400">
-      <br>
-      <strong>Evidence 7</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter8.png"
-           alt="Team Charter Evidence 8"
-           width="400">
-      <br>
-      <strong>Evidence 8</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter4.png">
+        <img src="Agile_Team_Charter/TeamCharter4.png"
+             alt="Team Charter Evidence 4"
+             width="100%">
+      </a>
+      <p><strong>Evidence 4</strong><br>Team responsibilities</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter9.png"
-           alt="Team Charter Evidence 9"
-           width="400">
-      <br>
-      <strong>Evidence 9</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter5.png">
+        <img src="Agile_Team_Charter/TeamCharter5.png"
+             alt="Team Charter Evidence 5"
+             width="100%">
+      </a>
+      <p><strong>Evidence 5</strong><br>Working practices</p>
     </td>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter10.png"
-           alt="Team Charter Evidence 10"
-           width="400">
-      <br>
-      <strong>Evidence 10</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter6.png">
+        <img src="Agile_Team_Charter/TeamCharter6.png"
+             alt="Team Charter Evidence 6"
+             width="100%">
+      </a>
+      <p><strong>Evidence 6</strong><br>Communication and collaboration</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Team_Charter/TeamCharter11.png"
-           alt="Team Charter Evidence 11"
-           width="400">
-      <br>
-      <strong>Evidence 11</strong>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter7.png">
+        <img src="Agile_Team_Charter/TeamCharter7.png"
+             alt="Team Charter Evidence 7"
+             width="100%">
+      </a>
+      <p><strong>Evidence 7</strong><br>Team accountability</p>
     </td>
-    <td align="center" width="50%">
-      <!-- Leave this cell empty -->
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter8.png">
+        <img src="Agile_Team_Charter/TeamCharter8.png"
+             alt="Team Charter Evidence 8"
+             width="100%">
+      </a>
+      <p><strong>Evidence 8</strong><br>Project expectations</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter9.png">
+        <img src="Agile_Team_Charter/TeamCharter9.png"
+             alt="Team Charter Evidence 9"
+             width="100%">
+      </a>
+      <p><strong>Evidence 9</strong><br>Team processes</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter10.png">
+        <img src="Agile_Team_Charter/TeamCharter10.png"
+             alt="Team Charter Evidence 10"
+             width="100%">
+      </a>
+      <p><strong>Evidence 10</strong><br>Charter review</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="Agile_Team_Charter/TeamCharter11.png">
+        <img src="Agile_Team_Charter/TeamCharter11.png"
+             alt="Team Charter Evidence 11"
+             width="100%">
+      </a>
+      <p><strong>Evidence 11</strong><br>Additional charter evidence</p>
+    </td>
+    <td width="50%" align="center">
+      <p>Additional supporting documentation is available below.</p>
     </td>
   </tr>
 </table>
+<p>
+  <strong>Complete Team Charter:</strong>
+  <a href="Agile_Team_Charter/Sober_Hub_Agile_Team_Charter_v2.pdf">
+    View Agile Team Charter PDF
+  </a>
+</p>
 
+<hr>
 
 ## Reflection on Agile Team Charter
 **Situation:**
