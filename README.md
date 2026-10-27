@@ -133,8 +133,6 @@ https://trello.com/b/BmXaw4Vp/sober-hub-project-agile-scrum-board
 ## Introduction
 An Agile team charter is a shared agreement that sets out the team's purpose, roles, working rules, communication and Definition of Done. I included it because it is the foundation of how out team planned to work together on Sober Hub.
 
-<h3 id="team-charter">1. Agile Team Charter</h3>
-
 <p>
   The following screenshots provide evidence of the Agile Team
   Charter and its supporting sections. The charter establishes
@@ -283,96 +281,124 @@ A project designed to promote trust, safety and consistent support should be dev
 ## Introduction
 A user story describes a feature from the end user's point of view ("As a ..., I want ..., so that ..."). Each story is then broken into smaller tasks the team can complete and tick off. I include this section to show how the Sober Hub idea was turned into work the team could build and track.
 
-The following evidence demonstrates the development of our User Stories and Tasks.
-
-<h3>User Stories and Tasks Screenshots</h3>
+<p>
+  These screenshots show the user stories and development tasks
+  managed during the Sober Hub project. They provide evidence of
+  task planning, checklist completion and progress tracking.
+</p>
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User1_day3.png" 
-        alt="User Stories Evidence 1" 
-        width="400">
-      <br><strong>Evidence 1</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User1_day3.png">
+        <img src="User_Stories_And_Tasks/User1_day3.png"
+             alt="User Stories Evidence 1"
+             width="100%">
+      </a>
+      <p><strong>Evidence 1</strong><br>User story and task tracking</p>
     </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User2_day5.png" 
-        alt="User Stories Evidence 2" 
-        width="400">
-      <br><strong>Evidence 2</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User3_day10.png" 
-        alt="User Stories Evidence 3" 
-        width="400">
-      <br><strong>Evidence 3</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User4_day10.png" 
-        alt="User Stories Evidence 4" 
-        width="400">
-      <br><strong>Evidence 4</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User2_day3.png">
+        <img src="User_Stories_And_Tasks/User2_day3.png"
+             alt="User Stories Evidence 2"
+             width="100%">
+      </a>
+      <p><strong>Evidence 2</strong><br>Task planning</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User5_day8.png" 
-        alt="User Stories Evidence 5" 
-        width="400">
-      <br><strong>Evidence 5</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User3_day4.png">
+        <img src="User_Stories_And_Tasks/User3_day4.png"
+             alt="User Stories Evidence 3"
+             width="100%">
+      </a>
+      <p><strong>Evidence 3</strong><br>User story evidence</p>
     </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User6_day10.png" 
-        alt="User Stories Evidence 6" 
-        width="400">
-      <br><strong>Evidence 6</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User7_day10.png" 
-        alt="User Stories Evidence 7" 
-        width="400">
-      <br><strong>Evidence 7</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User8_day10.png" 
-        alt="User Stories Evidence 8" 
-        width="400">
-      <br><strong>Evidence 8</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User4_day4.png">
+        <img src="User_Stories_And_Tasks/User4_day4.png"
+             alt="User Stories Evidence 4"
+             width="100%">
+      </a>
+      <p><strong>Evidence 4</strong><br>Development tasks</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User9_day10.png" 
-        alt="User Stories Evidence 9" 
-        width="400">
-      <br><strong>Evidence 9</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User5_day5.png">
+        <img src="User_Stories_And_Tasks/User5_day5.png"
+             alt="User Stories Evidence 5"
+             width="100%">
+      </a>
+      <p><strong>Evidence 5</strong><br>Task progress</p>
     </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User10_day11.png" 
-        alt="User Stories Evidence 10" 
-        width="400">
-      <br><strong>Evidence 10</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User6_day5.png">
+        <img src="User_Stories_And_Tasks/User6_day5.png"
+             alt="User Stories Evidence 6"
+             width="100%">
+      </a>
+      <p><strong>Evidence 6</strong><br>Checklist evidence</p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User11_day10.png" 
-        alt="User Stories Evidence 11" 
-        width="400">
-      <br><strong>Evidence 11</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User7_day6.png">
+        <img src="User_Stories_And_Tasks/User7_day6.png"
+             alt="User Stories Evidence 7"
+             width="100%">
+      </a>
+      <p><strong>Evidence 7</strong><br>Task allocation</p>
     </td>
-    <td align="center" width="50%">
-      <img src="User_Stories_And_Tasks/User12_day8.png" 
-        alt="User Stories Evidence 12" 
-        width="400">
-      <br><strong>Evidence 12</strong>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User8_day6.png">
+        <img src="User_Stories_And_Tasks/User8_day6.png"
+             alt="User Stories Evidence 8"
+             width="100%">
+      </a>
+      <p><strong>Evidence 8</strong><br>Task updates</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User9_day7.png">
+        <img src="User_Stories_And_Tasks/User9_day7.png"
+             alt="User Stories Evidence 9"
+             width="100%">
+      </a>
+      <p><strong>Evidence 9</strong><br>User story progress</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User10_day11.png">
+        <img src="User_Stories_And_Tasks/User10_day11.png"
+             alt="User Stories Evidence 10"
+             width="100%">
+      </a>
+      <p><strong>Evidence 10</strong><br>Task update and activity</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User11_day8.png">
+        <img src="User_Stories_And_Tasks/User11_day8.png"
+             alt="User Stories Evidence 11"
+             width="100%">
+      </a>
+      <p><strong>Evidence 11</strong><br>Development task evidence</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="User_Stories_And_Tasks/User12_day8.png">
+        <img src="User_Stories_And_Tasks/User12_day8.png"
+             alt="User Stories Evidence 12"
+             width="100%">
+      </a>
+      <p><strong>Evidence 12</strong><br>Task tracking and progress</p>
     </td>
   </tr>
 </table>
+
+<hr>
 
 ## Reflection on User Stories and Tasks
 **Situation:**
@@ -399,25 +425,26 @@ Our users are vulnerable young people, so every page has to be simple, welcoming
 ## Introduction
 The Product backlog is the ordered list of everything still to be build or improved. it changes whenever feedback arrives. I include it to show what remained to be done and how our priorities evolved.
 
-The following evidence demonstrates the development of our Product Backlog.
-
-<h3>Product Backlog Evidence</h3>
-
 <p>
-  The screenshot below shows the Product Backlog, including
-  prioritised development tasks and their recorded progress.
+  The Product Backlog records the features and tasks identified
+  for the Sober Hub project. It supports prioritisation and helps
+  the team organise the work required to develop the solution.
 </p>
 
 <p align="center">
-  <img src="Product_Backlog/Backlog%201.png"
-       alt="Sober Hub Product Backlog in Trello"
-       width="65%">
+  <a href="Product_Backlog/Backlog%201.png">
+    <img src="Product_Backlog/Backlog%201.png"
+         alt="Sober Hub Product Backlog screenshot"
+         width="75%">
+  </a>
 </p>
 
 <p align="center">
-  <em>Evidence 1: Product Backlog showing selected development
-  cards and checklist progress.</em>
+  <strong>Evidence 1:</strong> Product Backlog showing development
+  cards and planned project tasks.
 </p>
+
+<hr>
 
 My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
@@ -475,35 +502,62 @@ Sober Hub has to respond to what the community needs. Reordering the backlog aft
 ## Introduction
 A Sprint Backlog is the set of backlog items the team commits to finishing in one sprint, with the tasks needed to do it. I included it to show how the project was divided into focused phases of work.
 
-The following evidence demonstrates the development of our Sprint Backlog.
+ <p>
+  The following screenshots provide evidence of the Sprint Backlog
+  for the Sober Hub project. They demonstrate how development
+  tasks were organised, tracked and managed during the project.
+</p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Sprint_Backlog/FinalSprint_1.png" 
-        alt="Sprint Backlog Evidence 1" 
-        width="100%">
-      <br>
-      <strong>Sprint Backlog – Screenshot 1</strong>
+      <a href="Sprint_Backlog/FinalSprint_1.png">
+        <img src="Sprint_Backlog/FinalSprint_1.png"
+             alt="Sprint Backlog Evidence 1"
+             width="100%">
+      </a>
+      <p>
+        <strong>Evidence 1: Sprint Backlog</strong><br>
+        First Sprint Backlog screenshot.
+      </p>
     </td>
+
     <td align="center" width="50%">
-      <img src="Sprint_Backlog/FinalSprint_2.png" 
-        alt="Sprint Backlog Evidence 2" 
-        width="100%">
-      <br>
-      <strong>Sprint Backlog – Screenshot 2</strong>
+      <a href="Sprint_Backlog/FinalSprint_2.png">
+        <img src="Sprint_Backlog/FinalSprint_2.png"
+             alt="Sprint Backlog Evidence 2"
+             width="100%">
+      </a>
+      <p>
+        <strong>Evidence 2: Sprint Backlog</strong><br>
+        Second Sprint Backlog screenshot.
+      </p>
     </td>
   </tr>
+
   <tr>
     <td align="center" colspan="2">
-      <img src="Sprint_Backlog/FinalSprint_3.png" 
-        alt="Sprint Backlog Evidence 3" 
-        width="70%">
-      <br>
-      <strong>Sprint Backlog – Screenshot 3</strong>
+      <a href="Sprint_Backlog/FinalSprint_3.png">
+        <img src="Sprint_Backlog/FinalSprint_3.png"
+             alt="Sprint Backlog Evidence 3"
+             width="70%">
+      </a>
+      <p>
+        <strong>Evidence 3: Sprint Backlog</strong><br>
+        Additional Sprint Backlog screenshot.
+      </p>
     </td>
   </tr>
 </table>
+
+<p>
+  <em>
+    These screenshots form part of the project evidence showing
+    the planning and organisation of Sober Hub development tasks.
+  </em>
+</p>
+
+<hr>
 
 ## Reflection on Sprint Backlog
 **Situation:**
@@ -530,80 +584,168 @@ Recovery is made of small, consistent steps. Our sprints do the same for the pro
 ## Introduction
 My Agile Logbook records my daily stand-ups (what I completed, what I plan to do, and what is blocking me), plus a Taskboard and a Walkthrough each week. It shows my day-to-day contribution and how the project progressed from 14 July to 7 August 2026.
 
-The following evidence demonstrates the development of our Agile Logbook.
-
-### Agile Logbook Document
-
-[View Agile Logbook for Week 1 PDF](Agile_Logbook/Week1_14-17_July.pdf)
-
-[View Agile Logbook for Week 2 PDF](Agile_Logbook/Week2_21-24_July.pdf)
-
-[View Agile Logbook for Week 3 PDF](Agile_Logbook/Week3_28-31_July.pdf)
-
-[View Agile Logbook for Week 4 PDF](Agile_Logbook/Week4_04-07_July.pdf)
+<p>
+  The following screenshots provide visual evidence of my
+  activities, contributions and progress during the Sober Hub
+  project. They document project planning, design activities,
+  frontend development, teamwork and project improvements.
+</p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile1.png" alt="Agile Logbook Screenshot 1" width="100%">
-      <br><strong>Agile Logbook – Evidence 1</strong>
+      <a href="Agile_Logbook/Agile1.png">
+        <img src="Agile_Logbook/Agile1.png"
+             alt="Agile Logbook Evidence 1"
+             width="100%">
+      </a>
+      <p><strong>Evidence 1: Agile Logbook</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile2.png" alt="Agile Logbook Screenshot 2" width="100%">
-      <br><strong>Agile Logbook – Evidence 2</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile3.png" alt="Agile Logbook Screenshot 3" width="100%">
-      <br><strong>Agile Logbook – Evidence 3</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile4.png" alt="Agile Logbook Screenshot 4" width="100%">
-      <br><strong>Agile Logbook – Evidence 4</strong>
+      <a href="Agile_Logbook/Agile2.png">
+        <img src="Agile_Logbook/Agile2.png"
+             alt="Agile Logbook Evidence 2"
+             width="100%">
+      </a>
+      <p><strong>Evidence 2: Agile Logbook</strong></p>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile5.png" alt="Agile Logbook Screenshot 5" width="100%">
-      <br><strong>Agile Logbook – Evidence 5</strong>
+      <a href="Agile_Logbook/Agile3.png">
+        <img src="Agile_Logbook/Agile3.png"
+             alt="Agile Logbook Evidence 3"
+             width="100%">
+      </a>
+      <p><strong>Evidence 3: Agile Logbook</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile6.png" alt="Agile Logbook Screenshot 6" width="100%">
-      <br><strong>Agile Logbook – Evidence 6</strong>
+      <a href="Agile_Logbook/Agile4.png">
+        <img src="Agile_Logbook/Agile4.png"
+             alt="Agile Logbook Evidence 4"
+             width="100%">
+      </a>
+      <p><strong>Evidence 4: Agile Logbook</strong></p>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile7.png" alt="Agile Logbook Screenshot 7" width="100%">
-      <br><strong>Agile Logbook – Evidence 7</strong>
+      <a href="Agile_Logbook/Agile5.png">
+        <img src="Agile_Logbook/Agile5.png"
+             alt="Agile Logbook Evidence 5"
+             width="100%">
+      </a>
+      <p><strong>Evidence 5: Agile Logbook</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile8.png" alt="Agile Logbook Screenshot 8" width="100%">
-      <br><strong>Agile Logbook – Evidence 8</strong>
+      <a href="Agile_Logbook/Agile6.png">
+        <img src="Agile_Logbook/Agile6.png"
+             alt="Agile Logbook Evidence 6"
+             width="100%">
+      </a>
+      <p><strong>Evidence 6: Agile Logbook</strong></p>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile9.png" alt="Agile Logbook Screenshot 9" width="100%">
-      <br><strong>Agile Logbook – Evidence 9</strong>
+      <a href="Agile_Logbook/Agile7.png">
+        <img src="Agile_Logbook/Agile7.png"
+             alt="Agile Logbook Evidence 7"
+             width="100%">
+      </a>
+      <p><strong>Evidence 7: Agile Logbook</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile10.png" alt="Agile Logbook Screenshot 10" width="100%">
-      <br><strong>Agile Logbook – Evidence 10</strong>
+      <a href="Agile_Logbook/Agile8.png">
+        <img src="Agile_Logbook/Agile8.png"
+             alt="Agile Logbook Evidence 8"
+             width="100%">
+      </a>
+      <p><strong>Evidence 8: Agile Logbook</strong></p>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile11.png" alt="Agile Logbook Screenshot 11" width="100%">
-      <br><strong>Agile Logbook – Evidence 11</strong>
+      <a href="Agile_Logbook/Agile9.png">
+        <img src="Agile_Logbook/Agile9.png"
+             alt="Agile Logbook Evidence 9"
+             width="100%">
+      </a>
+      <p><strong>Evidence 9: Agile Logbook</strong></p>
     </td>
     <td align="center" width="50%">
-      <img src="Agile_Logbook/Agile12.png" alt="Agile Logbook Screenshot 12" width="100%">
-      <br><strong>Agile Logbook – Evidence 12</strong>
+      <a href="Agile_Logbook/Agile10.png">
+        <img src="Agile_Logbook/Agile10.png"
+             alt="Agile Logbook Evidence 10"
+             width="100%">
+      </a>
+      <p><strong>Evidence 10: Agile Logbook</strong></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <a href="Agile_Logbook/Agile11.png">
+        <img src="Agile_Logbook/Agile11.png"
+             alt="Agile Logbook Evidence 11"
+             width="100%">
+      </a>
+      <p><strong>Evidence 11: Agile Logbook</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <a href="Agile_Logbook/Agile12.png">
+        <img src="Agile_Logbook/Agile12.png"
+             alt="Agile Logbook Evidence 12"
+             width="100%">
+      </a>
+      <p><strong>Evidence 12: Agile Logbook</strong></p>
     </td>
   </tr>
 </table>
+
+<hr>
+
+<h3>Supporting Documents: Weekly Agile Logbooks</h3>
+
+<p>
+  The following PDF documents provide the complete weekly
+  Agile Logbook records that support the screenshots above.
+  They contain additional details about project activities,
+  progress, feedback and learning throughout the Sober Hub project.
+</p>
+
+<ul>
+  <li>
+    <strong>Week 1 (14–17 July):</strong>
+    <a href="Agile_Logbook/Week1_14-17_July.pdf">
+      View Week 1 Agile Logbook (PDF)
+    </a>
+  </li>
+  <li>
+    <strong>Week 2 (21–24 July):</strong>
+    <a href="Agile_Logbook/Week2_21-24_July.pdf">
+      View Week 2 Agile Logbook (PDF)
+    </a>
+  </li>
+  <li>
+    <strong>Week 3 (28–31 July):</strong>
+    <a href="Agile_Logbook/Week3_28-31_July.pdf">
+      View Week 3 Agile Logbook (PDF)
+    </a>
+  </li>
+  <li>
+    <strong>Week 4 (4–7 August):</strong>
+    <a href="Agile_Logbook/Week4_04-07_July.pdf">
+      View Week 4 Agile Logbook (PDF)
+    </a>
+  </li>
+</ul>
+
+<hr>
 
 ## Progress timeline from my logbook
 
