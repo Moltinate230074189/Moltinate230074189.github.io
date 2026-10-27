@@ -298,8 +298,8 @@ A user story describes a feature from the end user's point of view ("As a ..., I
       <p><strong>Evidence 1</strong><br>User story and task tracking</p>
     </td>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User2_day3.png">
-        <img src="User_Stories_And_Tasks/User2_day3.png"
+      <a href="User_Stories_And_Tasks/User2_day5.png">
+        <img src="User_Stories_And_Tasks/User2_day5.png"
              alt="User Stories Evidence 2"
              width="100%">
       </a>
@@ -308,16 +308,16 @@ A user story describes a feature from the end user's point of view ("As a ..., I
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User3_day4.png">
-        <img src="User_Stories_And_Tasks/User3_day4.png"
+      <a href="User_Stories_And_Tasks/User3_day10.png">
+        <img src="User_Stories_And_Tasks/User3_day10.png"
              alt="User Stories Evidence 3"
              width="100%">
       </a>
       <p><strong>Evidence 3</strong><br>User story evidence</p>
     </td>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User4_day4.png">
-        <img src="User_Stories_And_Tasks/User4_day4.png"
+      <a href="User_Stories_And_Tasks/User4_day10.png">
+        <img src="User_Stories_And_Tasks/User4_day10.png"
              alt="User Stories Evidence 4"
              width="100%">
       </a>
@@ -326,16 +326,16 @@ A user story describes a feature from the end user's point of view ("As a ..., I
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User5_day5.png">
-        <img src="User_Stories_And_Tasks/User5_day5.png"
+      <a href="User_Stories_And_Tasks/User5_day8.png">
+        <img src="User_Stories_And_Tasks/User5_day8.png"
              alt="User Stories Evidence 5"
              width="100%">
       </a>
       <p><strong>Evidence 5</strong><br>Task progress</p>
     </td>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User6_day5.png">
-        <img src="User_Stories_And_Tasks/User6_day5.png"
+      <a href="User_Stories_And_Tasks/User6_day10.png">
+        <img src="User_Stories_And_Tasks/User6_day10.png"
              alt="User Stories Evidence 6"
              width="100%">
       </a>
@@ -344,16 +344,16 @@ A user story describes a feature from the end user's point of view ("As a ..., I
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User7_day6.png">
-        <img src="User_Stories_And_Tasks/User7_day6.png"
+      <a href="User_Stories_And_Tasks/User7_day10.png">
+        <img src="User_Stories_And_Tasks/User7_day10.png"
              alt="User Stories Evidence 7"
              width="100%">
       </a>
       <p><strong>Evidence 7</strong><br>Task allocation</p>
     </td>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User8_day6.png">
-        <img src="User_Stories_And_Tasks/User8_day6.png"
+      <a href="User_Stories_And_Tasks/User8_day10.png">
+        <img src="User_Stories_And_Tasks/User8_day10.png"
              alt="User Stories Evidence 8"
              width="100%">
       </a>
@@ -362,8 +362,8 @@ A user story describes a feature from the end user's point of view ("As a ..., I
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User9_day7.png">
-        <img src="User_Stories_And_Tasks/User9_day7.png"
+      <a href="User_Stories_And_Tasks/User9_day10.png">
+        <img src="User_Stories_And_Tasks/User9_day10.png"
              alt="User Stories Evidence 9"
              width="100%">
       </a>
@@ -380,8 +380,8 @@ A user story describes a feature from the end user's point of view ("As a ..., I
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="User_Stories_And_Tasks/User11_day8.png">
-        <img src="User_Stories_And_Tasks/User11_day8.png"
+      <a href="User_Stories_And_Tasks/User11_day10.png">
+        <img src="User_Stories_And_Tasks/User11_day10.png"
              alt="User Stories Evidence 11"
              width="100%">
       </a>
@@ -431,20 +431,17 @@ The Product backlog is the ordered list of everything still to be build or impro
   the team organise the work required to develop the solution.
 </p>
 
-<p align="center">
-  <a href="Product_Backlog/Backlog%201.png">
-    <img src="Product_Backlog/Backlog%201.png"
-         alt="Sober Hub Product Backlog screenshot"
-         width="75%">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Evidence 1:</strong> Product Backlog showing development
-  cards and planned project tasks.
-</p>
-
-<hr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="Product_Backlog/Backlog%201.png" 
+        alt="Sober Hub Product Backlog Evidence" 
+        width="500">
+      <br>
+      <strong>Product Backlog Screenshot</strong>
+    </td>
+  </tr>
+</table>
 
 My Agile Logbook shows how the backlog changed week by week as feedback came in:
   
@@ -521,7 +518,6 @@ A Sprint Backlog is the set of backlog items the team commits to finishing in on
         First Sprint Backlog screenshot.
       </p>
     </td>
-
     <td align="center" width="50%">
       <a href="Sprint_Backlog/FinalSprint_2.png">
         <img src="Sprint_Backlog/FinalSprint_2.png"
@@ -534,7 +530,6 @@ A Sprint Backlog is the set of backlog items the team commits to finishing in on
       </p>
     </td>
   </tr>
-
   <tr>
     <td align="center" colspan="2">
       <a href="Sprint_Backlog/FinalSprint_3.png">
