@@ -644,12 +644,16 @@ The logbook records the real journey of building Sober Hub, including the setbac
 
 The **Charter:** 
 set the rules for how we work.
+
 The **User Stories:** 
 defined what Sober Hub should do for its users.
+
 The **Product Backlog:**
 held everything the project needed, ordered by priority.
+
 The **Sprint Backlog:** 
 broke that work into weekly pieces.
+
 The **Logbook:**
 recorded what actually happened each day and showed me where the process needed to improve.
 
